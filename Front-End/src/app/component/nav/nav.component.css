@@ -1,0 +1,57 @@
+#nav {
+  width: 100%;
+  background: rgba(166, 212, 160, 0.829);
+  margin-bottom: 1%;
+  font-family: Microsoft JhengHei;
+}
+
+.nav_word {
+  font-size: 80%;
+  padding: 0.5% 0 0.5% 5%;
+  margin-top: 0;
+}
+
+.nav_word li {
+  padding-right: 3%;
+  list-style: none;
+  display: inline;
+}
+
+.nav_home {
+  font-weight: bold;
+  padding-right: 1%;
+
+}
+
+.nav_a {
+  color: black;
+  text-decoration:none;
+}
+
+a:hover {
+  color: blue;
+}
+
+/* ul.nav_word li ul {
+  display: none;
+  float: left;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+}
+
+ul.nav_word li:hover > ul {
+  display: block;
+}
+
+ul.nav_word ul li {
+  border-bottom: 1px solid #DDD;
+}
+
+ul.nav_word ul li :last-child {
+  border-bottom: none;
+}
+
+ul.nav_word ul a:hover {
+  background: #CCC;
+} */
